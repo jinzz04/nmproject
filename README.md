@@ -1,6 +1,3 @@
-# nmproject
-
-
 ---
 
 #  Product Catalog with Filters
