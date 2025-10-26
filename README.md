@@ -1,4 +1,3 @@
----
 
 #  Product Catalog with Filters
 
